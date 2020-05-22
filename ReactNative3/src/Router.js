@@ -30,7 +30,6 @@ const MainStack = createStackNavigator({
     },
 });
 
-
 const ModalStack = createStackNavigator({
     Main: MainStack,
   //  Modal: AboutModal
